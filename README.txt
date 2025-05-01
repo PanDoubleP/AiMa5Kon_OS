@@ -1,4 +1,4 @@
-# AiMa5Kon_OS
+AiMa5Kon_OS
 
 How to run the code.
 
